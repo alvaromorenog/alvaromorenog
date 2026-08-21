@@ -1,16 +1,27 @@
-## Hi there 👋
+### 👋 Hola, soy Álvaro Moreno González
 
-<!--
-**alvaromorenog/alvaromorenog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de último año de **Ingeniería en Tecnologías de la Telecomunicación** (Universidad de Sevilla), especializado en **Telemática y redes de comunicación**. Estoy buscando mi primera oportunidad profesional o prácticas en redes, telemática o desarrollo de software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔧 Stack técnico**
+
+`Python` · `Java` · `C` · `JavaScript`
+
+**📡 Redes y telecomunicaciones**
+
+Diseño, planificación y análisis de redes · Protocolos de comunicación
+
+---
+
+**📌 Qué encontrarás en mis repositorios**
+
+- 🎓 `smart-eyes` → TFG: Sistema de videovigilancia low-cost con acceso remoto seguro vía WireGuard
+- 🔒 `irc-charybdis-secure-chat` → Servidor de chat IRC seguro (TLS + OTR) con bot de monitorización en Java
+- 👥 Otros repos → Proyectos académicos en equipo (indico mi contribución en cada README)
+
+---
+
+**📫 Contacto**
+
+[LinkedIn](https://www.linkedin.com/in/álvaro-moreno-gonzález-14792b367) · alvmorgon19@gmail.com

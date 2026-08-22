@@ -18,7 +18,7 @@ Diseño, planificación y análisis de redes · Protocolos de comunicación
 
 - 🎓 `smart-eyes` → TFG: Sistema de videovigilancia low-cost con acceso remoto seguro vía WireGuard
 - 🔒 `irc-charybdis-secure-chat` → Servidor de chat IRC seguro (TLS + OTR) con bot de monitorización en Java
-- 👥 Otros repos → Proyectos académicos en equipo (indico mi contribución en cada README)
+- 🗄️ `network-inventory-db` → Sistema de inventario de dispositivos de red (CRUD) con Python y PostgreSQL
 
 ---
 

@@ -16,7 +16,7 @@ Diseño, planificación y análisis de redes · Protocolos de comunicación
 
 **📌 Qué encontrarás en mis repositorios**
 
-- 🎓 `smart-eyes` → TFG: Sistema de videovigilancia low-cost con acceso remoto seguro vía WireGuard
+- 🎓 `omni-sense` → OmniSense: Plataforma Inteligente de Monitorización y Análisis Ambiental
 - 🔒 `irc-charybdis-secure-chat` → Servidor de chat IRC seguro (TLS + OTR) con bot de monitorización en Java
 - 🗄️ `network-inventory-db` → Sistema de inventario de dispositivos de red (CRUD) con Python y PostgreSQL
 
